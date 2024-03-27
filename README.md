@@ -1,1 +1,1 @@
-A simple calculator project  built with ANGULAR 17 c
+***   A simple calculator project  built with ANGULAR 17  ***
