@@ -12,9 +12,9 @@ This is a simple **Angular-based calculator** application that performs basic ar
 - **Responsive UI**: A user-friendly interface that works on both desktop and mobile devices.
 
 ## Technologies Used
-- **Frontend**: Angular 15+
+- **Frontend**: Angular 17
 - **Styling**: CSS, Bootstrap (optional)
-- **Testing**: Jasmine and Karma for unit testing
+- **Testing**: Karma for unit testing
 
 ## Installation
 
